@@ -74,9 +74,8 @@ Running GitHub as a hobby — so there's plenty of both finished and unfinished 
 ### Sacred (A bit of old school)
 - **[SacredUtils](https://github.com/MairwunNx/SacredUtils)** — A powerful and beautiful configurator for Sacred and Sacred Underworld, using Material Design. Configurator for a 2004 old school RPG. Abandoned.
 - **[SacredMagician](https://github.com/MairwunNx/SacredMagician)** — A powerful balance.bin editor for Sacred and Sacred Underworld, on Kotlin JVM. Also abandoned.
+</details>
 
 ---
 
 [t.me/mairwunnx](https://t.me/mairwunnx) · [mairwunnx.com](https://mairwunnx.com)
-
-</details>
