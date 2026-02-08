@@ -1,45 +1,3 @@
-# Pavel Erokhin
-
-Software engineer & architect.
-
-Working with whatever the task demands, but mostly JVM, .NET, Go and TypeScript.
-
-- 🧑🏻‍💻 Code in: Kotlin, C#, Java, Go, TS.
-- ⚒️ Build with: Gradle, Maven, MSBuild.
-- 🚀 Deploy with: Swarm, Compose, Helm. And more.
-- 🦾 Deep understanding of JVM internals: JIT, GC, JMM, JDK, JFR.
-- 🤔 Actively exploring LLMOps and modern LLM internals.
-
-Running GitHub as a hobby — so there's plenty of both finished and unfinished projects here.
-
----
-
-## Main Projects
-
-### Architectural
-- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 Backend adaptation of Feature-Sliced Design. Organize by feature slices, execute with functional actions. For FP languages.
-
-### Telegram bots & more
-- **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ AI Telegram bot styled as the Great Xi. The personality of a great leader embodied with AI, ready to answer questions of the simple people.
-- **[Dickobrazz](https://github.com/MairwunNx/dickobrazz)** — 🌶️ Dickobrazz bot — accurately measures the size of your, uh, apparatus. To the centimeter. Don't take it personally if the numbers aren't impressive — it's just for fun.
-- **[AnotherStorm](https://github.com/MairwunNx/AnotherStorm)** — 😍 A cool dark theme for Telegram Desktop.
-- **[BritishClub](https://github.com/MairwunNx/British-Club)** — 🎩 An elegant dark theme for Telegram Desktop inspired by old money aesthetics.
-
-### Minecraft mods, plugins & more
-- **[ProjectEssentials](https://github.com/ProjectEssentials)** — Make forge servers great again. Organization of the project "Project Essentials". 🎉
-- **[MCBuddy](https://github.com/mcbuddy-ai)** — AI assistant for Minecraft, because `/help` was never actually helpful.
-- **[COVID-19-Mod](https://github.com/MairwunNx/COVID-19-Mod)** — 🦠 Coronavirus in Minecraft! 🦠
-
-### Sacred (A bit of old school)
-- **[SacredUtils](https://github.com/MairwunNx/SacredUtils)** — A powerful and beautiful configurator for Sacred and Sacred Underworld, using Material Design. Configurator for a 2004 old school RPG. Abandoned.
-- **[SacredMagician](https://github.com/MairwunNx/SacredMagician)** — A powerful balance.bin editor for Sacred and Sacred Underworld, on Kotlin JVM. Also abandoned.
-
----
-
-[t.me/mairwunnx](https://t.me/mairwunnx) · [mairwunnx.com](https://mairwunnx.com)
-
----
-
 # Павел Ерохин
 
 Инженер-программист и архитектор ПО.
@@ -75,6 +33,44 @@ Running GitHub as a hobby — so there's plenty of both finished and unfinished 
 ### Sacred (Немного олдскульного)
 - **[SacredUtils](https://github.com/MairwunNx/SacredUtils)** — Мощный и красивый конфигуратор для Sacred и Sacred Underworld, с использованием Material Design. Конфигуратор для олдскульной RPG 2004 года. Заброшен.
 - **[SacredMagician](https://github.com/MairwunNx/SacredMagician)** — Мощный редактор balance.bin для Sacred и Sacred Underworld, на Kotlin JVM. Тоже заброшен.
+
+---
+
+# Pavel Erokhin
+
+Software engineer & architect.
+
+Working with whatever the task demands, but mostly JVM, .NET, Go and TypeScript.
+
+- 🧑🏻‍💻 Code in: Kotlin, C#, Java, Go, TS.
+- ⚒️ Build with: Gradle, Maven, MSBuild.
+- 🚀 Deploy with: Swarm, Compose, Helm. And more.
+- 🦾 Deep understanding of JVM internals: JIT, GC, JMM, JDK, JFR.
+- 🤔 Actively exploring LLMOps and modern LLM internals.
+
+Running GitHub as a hobby — so there's plenty of both finished and unfinished projects here.
+
+---
+
+## Main Projects
+
+### Architectural
+- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 Backend adaptation of Feature-Sliced Design. Organize by feature slices, execute with functional actions. For FP languages.
+
+### Telegram bots & more
+- **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ AI Telegram bot styled as the Great Xi. The personality of a great leader embodied with AI, ready to answer questions of the simple people.
+- **[Dickobrazz](https://github.com/MairwunNx/dickobrazz)** — 🌶️ Dickobrazz bot — accurately measures the size of your, uh, apparatus. To the centimeter. Don't take it personally if the numbers aren't impressive — it's just for fun.
+- **[AnotherStorm](https://github.com/MairwunNx/AnotherStorm)** — 😍 A cool dark theme for Telegram Desktop.
+- **[BritishClub](https://github.com/MairwunNx/British-Club)** — 🎩 An elegant dark theme for Telegram Desktop inspired by old money aesthetics.
+
+### Minecraft mods, plugins & more
+- **[ProjectEssentials](https://github.com/ProjectEssentials)** — Make forge servers great again. Organization of the project "Project Essentials". 🎉
+- **[MCBuddy](https://github.com/mcbuddy-ai)** — AI assistant for Minecraft, because `/help` was never actually helpful.
+- **[COVID-19-Mod](https://github.com/MairwunNx/COVID-19-Mod)** — 🦠 Coronavirus in Minecraft! 🦠
+
+### Sacred (A bit of old school)
+- **[SacredUtils](https://github.com/MairwunNx/SacredUtils)** — A powerful and beautiful configurator for Sacred and Sacred Underworld, using Material Design. Configurator for a 2004 old school RPG. Abandoned.
+- **[SacredMagician](https://github.com/MairwunNx/SacredMagician)** — A powerful balance.bin editor for Sacred and Sacred Underworld, on Kotlin JVM. Also abandoned.
 
 ---
 
