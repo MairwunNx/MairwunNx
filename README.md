@@ -36,6 +36,9 @@
 
 ---
 
+<details>
+<summary>English version (International)</summary>
+
 # Pavel Erokhin
 
 Software engineer & architect.
@@ -75,3 +78,5 @@ Running GitHub as a hobby — so there's plenty of both finished and unfinished 
 ---
 
 [t.me/mairwunnx](https://t.me/mairwunnx) · [mairwunnx.com](https://mairwunnx.com)
+
+</details>
