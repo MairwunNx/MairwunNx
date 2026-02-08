@@ -59,7 +59,7 @@ Running GitHub as a hobby — so there's plenty of both finished and unfinished 
 ## Основные проекты
 
 ### Архитектурное
-- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 Backend-адаптация Feature-Sliced Design. Организуй по фича-срезам, выполняй функциональными экшенами. Для FP языков.
+- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 FAA — это адаптация Feature-Sliced Design для бэкенда. Код организован по бизнес-доменам (вертикальные слайсы), а бизнес-логика живёт в изолированных action-функциях вместо монолитных сервис-классов.
 
 ### Телеграм боты и прочее
 - **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ Telegram-бот с ИИ, стилизованный под Великого Xi. Личность великого лидера воплощенная с ИИ, готовый отвечать на вопросы простого народа.
@@ -68,7 +68,7 @@ Running GitHub as a hobby — so there's plenty of both finished and unfinished 
 - **[BritishClub](https://github.com/MairwunNx/British-Club)** — 🎩 Элегантная тёмная тема для Telegram Desktop в стиле old money.
 
 ### Майнкрафт моды, плагины и прочее
-- **[ProjectEssentials](https://github.com/ProjectEssentials)** — Make forge servers great again. Организация проекта "Project Essentials". 🎉
+- **[ProjectEssentials](https://github.com/ProjectEssentials)** — Project Essentials — это проект, который делает сервера Forge великими снова. 🎉
 - **[MCBuddy](https://github.com/mcbuddy-ai)** — ИИ-ассистент для Minecraft, потому что `/help` никогда не помогал.
 - **[COVID-19-Mod](https://github.com/MairwunNx/COVID-19-Mod)** — 🦠 Коронавирус в Minecraft! 🦠
 
