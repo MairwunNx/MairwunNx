@@ -17,7 +17,7 @@
 ## Основные проекты
 
 ### Архитектурное
-- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 FAA — это адаптация Feature-Sliced Design для бэкенда. Код организован по бизнес-доменам (вертикальные слайсы), а бизнес-логика живёт в изолированных action-функциях вместо монолитных сервис-классов.
+- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 FAA — это адаптация Feature-Sliced Design для серверной разработки. Код организован по бизнес-доменам (вертикальные слайсы), а бизнес-логика живёт в изолированных action-функциях вместо монолитных сервис-классов.
 
 ### Телеграм боты и прочее
 - **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ Telegram-бот с ИИ, стилизованный под Великого Xi. Личность великого лидера воплощенная с ИИ, готовый отвечать на вопросы простого народа.
