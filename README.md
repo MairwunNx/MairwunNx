@@ -19,9 +19,13 @@
 ### Архитектурное
 - **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 FAA — это адаптация Feature-Sliced Design для серверной разработки. Код организован по бизнес-доменам (вертикальные слайсы), а бизнес-логика живёт в изолированных action-функциях вместо монолитных сервис-классов.
 
+## Серверное
+- **[Dickobrazz Server](https://github.com/MairwunNx/dickobrazz-server)** — 🌶️ Backend API для экосистемы Dickobrazz (dickobrazz.com): генерация ежедневного размера, лидерборды, сезоны, ачивки, респекты, динамика и сервисные метрики.
+
 ### Телеграм боты и прочее
 - **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ Telegram-бот с ИИ, стилизованный под Великого Xi. Личность великого лидера воплощенная с ИИ, готовый отвечать на вопросы простого народа.
 - **[Dickobrazz](https://github.com/MairwunNx/dickobrazz)** — 🌶️ Современный и технологичный кокомер: вы спрашиваете, а бот выдаёт научно обоснованный размер и даже в шуточной форме сопоставляет ваш размер агрегата с номером региона России. Линейка или микроскоп, больше не понадобиться!
+
 - **[AnotherStorm](https://github.com/MairwunNx/AnotherStorm)** — 😍 Стильная тёмная тема для Telegram Desktop.
 - **[BritishClub](https://github.com/MairwunNx/British-Club)** — 🎩 Элегантная тёмная тема для Telegram Desktop в стиле old money.
 
@@ -59,6 +63,9 @@ Running GitHub as a hobby — so there's plenty of both finished and unfinished 
 
 ### Architectural
 - **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 Backend adaptation of Feature-Sliced Design. Organize by feature slices, execute with functional actions. For FP languages.
+
+### Server side development
+- **[Dickobrazz Server](https://github.com/MairwunNx/dickobrazz-server)** — 🌶️ Backend API for the Dickobrazz ecosystem (dickobrazz.com): daily size generation, leaderboards, seasons, achievements, respects, progression analytics, and service metrics.
 
 ### Telegram bots & more
 - **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ AI Telegram bot styled as the Great Xi. The personality of a great leader embodied with AI, ready to answer questions of the simple people.
