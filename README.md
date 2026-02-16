@@ -19,7 +19,7 @@
 ### Архитектурное
 - **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 FAA — это адаптация Feature-Sliced Design для серверной разработки. Код организован по бизнес-доменам (вертикальные слайсы), а бизнес-логика живёт в изолированных action-функциях вместо монолитных сервис-классов.
 
-## Серверное
+### Серверное
 - **[Dickobrazz Server](https://github.com/MairwunNx/dickobrazz-server)** — 🌶️ Backend API для экосистемы Dickobrazz (dickobrazz.com): генерация ежедневного размера, лидерборды, сезоны, ачивки, респекты, динамика и сервисные метрики.
 
 ### Телеграм боты и прочее
