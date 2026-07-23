@@ -1,48 +1,3 @@
-# Павел Ерохин
-
-Инженер-программист и архитектор ПО.
-
-Работаю с чем придется 🫡, но в основном с JVM, .NET, Go и TypeScript.
-
-- 🧑🏻‍💻 Программирую на Kotlin, C#, Java, Go, TS.
-- ⚒️ Компилирую с: Gradle, Maven, MSBuild.
-- 🚀 Деплою с: Swarm, Compose, Helm. И не только.
-- 🦾 Глубокое понимание экосистемы JVM: JIT, GC, JMM, JDK, JFR.
-- 🤔 Активно изучаю LLMOps и устройство современных LLM.
-
-Веду GitHub как хобби, поэтому тут большая кладезь моих завершенных и не завершенных проектов.
-
----
-
-## Основные проекты
-
-### Архитектурное
-- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 FAA — это адаптация Feature-Sliced Design для серверной разработки. Код организован по бизнес-доменам (вертикальные слайсы), а бизнес-логика живёт в изолированных action-функциях вместо монолитных сервис-классов.
-
-### Серверное
-- **[Dickobrazz Server](https://github.com/MairwunNx/dickobrazz-server)** — 🌶️ Backend API для экосистемы Dickobrazz (dickobrazz.com): генерация ежедневного размера, лидерборды, сезоны, ачивки, респекты, динамика и сервисные метрики.
-
-### Телеграм боты и прочее
-- **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ Telegram-бот с ИИ, стилизованный под Великого Xi. Личность великого лидера воплощенная с ИИ, готовый отвечать на вопросы простого народа.
-- **[Dickobrazz](https://github.com/MairwunNx/dickobrazz)** — 🌶️ Современный и технологичный кокомер: вы спрашиваете, а бот выдаёт научно обоснованный размер и даже в шуточной форме сопоставляет ваш размер агрегата с номером региона России. Линейка или микроскоп, больше не понадобиться!
-
-- **[AnotherStorm](https://github.com/MairwunNx/AnotherStorm)** — 😍 Стильная тёмная тема для Telegram Desktop.
-- **[BritishClub](https://github.com/MairwunNx/British-Club)** — 🎩 Элегантная тёмная тема для Telegram Desktop в стиле old money.
-
-### Майнкрафт моды, плагины и прочее
-- **[ProjectEssentials](https://github.com/ProjectEssentials)** — Project Essentials — это проект, который делает сервера Forge великими снова. 🎉
-- **[MCBuddy](https://github.com/mcbuddy-ai)** — ИИ-ассистент для Minecraft, потому что `/help` никогда не помогал.
-- **[COVID-19-Mod](https://github.com/MairwunNx/COVID-19-Mod)** — 🦠 Коронавирус в Minecraft! 🦠
-
-### Sacred (Немного олдскульного)
-- **[SacredUtils](https://github.com/MairwunNx/SacredUtils)** — Мощный и красивый конфигуратор для Sacred и Sacred Underworld, с использованием Material Design. Конфигуратор для олдскульной RPG 2004 года. Заброшен.
-- **[SacredMagician](https://github.com/MairwunNx/SacredMagician)** — Мощный редактор balance.bin для Sacred и Sacred Underworld, на Kotlin JVM. Тоже заброшен.
-
----
-
-<details>
-<summary>English version (International)</summary>
-
 # Pavel Erokhin
 
 Software engineer & architect.
@@ -59,28 +14,40 @@ Running GitHub as a hobby — so there's plenty of both finished and unfinished 
 
 ---
 
-## Main Projects
+<details>
+<summary>🇷🇺 Русская версия</summary>
 
-### Architectural
-- **[Feature-Action-Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — 🍕 Backend adaptation of Feature-Sliced Design. Organize by feature slices, execute with functional actions. For FP languages.
+# Павел Ерохин
 
-### Server side development
-- **[Dickobrazz Server](https://github.com/MairwunNx/dickobrazz-server)** — 🌶️ Backend API for the Dickobrazz ecosystem (dickobrazz.com): daily size generation, leaderboards, seasons, achievements, respects, progression analytics, and service metrics.
+Инженер-программист и архитектор ПО.
 
-### Telegram bots & more
-- **[Xi](https://github.com/MairwunNx/xi)** — 🀄️ AI Telegram bot styled as the Great Xi. The personality of a great leader embodied with AI, ready to answer questions of the simple people.
-- **[Dickobrazz](https://github.com/MairwunNx/dickobrazz)** — 🌶️ Dickobrazz bot — accurately measures the size of your, uh, apparatus. To the centimeter. Don't take it personally if the numbers aren't impressive — it's just for fun.
-- **[AnotherStorm](https://github.com/MairwunNx/AnotherStorm)** — 😍 A cool dark theme for Telegram Desktop.
-- **[BritishClub](https://github.com/MairwunNx/British-Club)** — 🎩 An elegant dark theme for Telegram Desktop inspired by old money aesthetics.
+Работаю с чем придется 🫡, но в основном с JVM, .NET, Go и TypeScript.
 
-### Minecraft mods, plugins & more
-- **[ProjectEssentials](https://github.com/ProjectEssentials)** — Make forge servers great again. Organization of the project "Project Essentials". 🎉
-- **[MCBuddy](https://github.com/mcbuddy-ai)** — AI assistant for Minecraft, because `/help` was never actually helpful.
-- **[COVID-19-Mod](https://github.com/MairwunNx/COVID-19-Mod)** — 🦠 Coronavirus in Minecraft! 🦠
+- 🧑🏻‍💻 Программирую на Kotlin, C#, Java, Go, TS.
+- ⚒️ Компилирую с: Gradle, Maven, MSBuild.
+- 🚀 Деплою с: Swarm, Compose, Helm. И не только.
+- 🦾 Глубокое понимание экосистемы JVM: JIT, GC, JMM, JDK, JFR.
+- 🤔 Активно изучаю LLMOps и устройство современных LLM.
 
-### Sacred (A bit of old school)
-- **[SacredUtils](https://github.com/MairwunNx/SacredUtils)** — A powerful and beautiful configurator for Sacred and Sacred Underworld, using Material Design. Configurator for a 2004 old school RPG. Abandoned.
-- **[SacredMagician](https://github.com/MairwunNx/SacredMagician)** — A powerful balance.bin editor for Sacred and Sacred Underworld, on Kotlin JVM. Also abandoned.
+Веду GitHub как хобби, поэтому тут большая кладезь моих завершенных и не завершенных проектов.
+</details>
+
+<details>
+<summary>🇪🇸 Versión en español</summary>
+
+# Pavel Erokhin
+
+Ingeniero de software y arquitecto.
+
+Trabajo con lo que haga falta 🫡, pero principalmente con JVM, .NET, Go y TypeScript.
+
+- 🧑🏻‍💻 Programo en: Kotlin, C#, Java, Go, TS.
+- ⚒️ Compilo con: Gradle, Maven, MSBuild.
+- 🚀 Despliego con: Swarm, Compose, Helm. Y más.
+- 🦾 Comprensión profunda del ecosistema JVM: JIT, GC, JMM, JDK, JFR.
+- 🤔 Explorando activamente LLMOps y el funcionamiento interno de los LLM modernos.
+
+Mantengo GitHub como hobby, así que aquí hay un montón de proyectos terminados e inacabados.
 </details>
 
 ---
