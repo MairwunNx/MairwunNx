@@ -8,6 +8,8 @@ In applied engineering, I develop on-device OCR and biometric verification (KYC)
 
 I use GitHub as a home for personal projects. Some are finished, some remain in active development, and others are no longer maintained.
 
+Powered by ![Red Bull](https://img.shields.io/badge/Red_Bull-%23E30613.svg?style=for-the-badge&logo=red-bull&logoColor=white)
+
 ---
 
 <details>
