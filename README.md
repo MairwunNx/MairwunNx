@@ -23,7 +23,7 @@ Built on JVM and Android Runtime (ART) internals: garbage collection, JIT compil
 - **[ancaria](https://ancaria.dev)**: a mod loader for Sacred Gold (2004), with hooks only in memory and a Rust bridge to the JVM.
 - **[Bytekodex](https://github.com/bytekodex)**: a Rust engine that renders JVM bytecode as images.
 
-### Backend, infrastructure, and observability
+### Backend and observability
 
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: a Minecraft server on HTTP, with 129 REST operations, OpenAPI, and a WebSocket event feed.
 - **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: a Prometheus exporter in Go that turns a Minecraft server into metrics.
@@ -86,7 +86,7 @@ Some projects here are finished, some are in active development, and others are 
 - **[ancaria](https://ancaria.dev)** — загрузчик модов для Sacred Gold (2004): хуки только в памяти и мост на Rust до JVM.
 - **[Bytekodex](https://github.com/bytekodex)** — движок на Rust, который рисует байткод JVM.
 
-### Бэкенд, инфраструктура и наблюдаемость
+### Бэкенд и наблюдаемость
 
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)** — Minecraft-сервер через HTTP: 129 REST-операций, OpenAPI и WebSocket-поток событий.
 - **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)** — экспортер Prometheus на Go, который превращает Minecraft-сервер в метрики.
@@ -125,7 +125,7 @@ Basada en los componentes internos de la JVM y de Android Runtime (ART): recolec
 - **[ancaria](https://ancaria.dev)**: un cargador de mods para Sacred Gold (2004), con hooks solo en memoria y un puente en Rust hacia la JVM.
 - **[Bytekodex](https://github.com/bytekodex)**: un motor en Rust que dibuja bytecode de la JVM.
 
-### Backend, infraestructura y observabilidad
+### Backend y observabilidad
 
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: un servidor de Minecraft sobre HTTP, con 129 operaciones REST, OpenAPI y un flujo de eventos por WebSocket.
 - **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: un exportador de Prometheus en Go que convierte un servidor de Minecraft en métricas.
