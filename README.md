@@ -6,28 +6,42 @@ In engineering since 2017. I’ve worked on high-load mobile and backend systems
 
 ### AI agents
 
-- **[Allay](https://allay.chat)**: an AI helper for Minecraft servers, on my own agent harness with tools, sub-agents, memory, and OpenTelemetry traces.
-- **[ctxray](https://github.com/MairwunNx/ctxray)**: shows what Claude Code, Codex, and Cursor load into the model’s context and tests it in CI, including skill-selection evaluation against real models.
-- **[minecraft-mcp](https://github.com/MairwunNx/minecraft-mcp)**: an MCP server with 51 tools and token-scoped permissions.
-- **[Xi](https://github.com/MairwunNx/xi)**: a multimodal AI assistant for Telegram, with text, voice, and images across five LLM providers and memory across sessions.
+<p align="center">
+<a href="https://allay.chat"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/allay-en-dark.svg"><img src="cards/allay-en-light.svg" width="49%" alt="Allay: An AI helper for Minecraft servers, on my own agent harness with tools, sub-agents, memory, and OpenTelemetry traces."></picture></a>
+<a href="https://github.com/MairwunNx/ctxray"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/ctxray-en-dark.svg"><img src="cards/ctxray-en-light.svg" width="49%" alt="ctxray: A debugger and test runner for agent harnesses: shows what Claude Code, Codex, and Cursor load into the model and tests it in CI."></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-en-dark.svg"><img src="cards/mcp-en-light.svg" width="49%" alt="minecraft-mcp: An MCP server with 51 tools that lets an AI agent see and run a Minecraft server, with token-scoped permissions."></picture></a>
+<a href="https://github.com/MairwunNx/xi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/xi-en-dark.svg"><img src="cards/xi-en-light.svg" width="49%" alt="Xi: A multimodal AI assistant for Telegram: text, voice, and images across five LLM providers, with memory across sessions."></picture></a>
+</p>
 
 ### Architecture
 
-- **[Capsa](https://github.com/MairwunNx/Capsa)**: the engine behind Capability Slice Architecture, my architecture for declarative UI, where each capability owns one slice of state and one user scenario.
-- **[Feature-Action Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)**: a backend architecture with vertical slices by business domain and actions instead of service classes.
+<p align="center">
+<a href="https://github.com/MairwunNx/Capsa"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/capsa-en-dark.svg"><img src="cards/capsa-en-light.svg" width="49%" alt="Capsa: The engine behind Capability Slice Architecture, my architecture for declarative UI, where each capability owns one slice of state and one user scenario."></picture></a>
+<a href="https://github.com/MairwunNx/Feature-Action-Architecture"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/faa-en-dark.svg"><img src="cards/faa-en-light.svg" width="49%" alt="Feature-Action Architecture: A backend architecture with vertical slices by business domain and actions instead of service classes."></picture></a>
+</p>
 
 ### Systems programming and reverse engineering
 
 Built on JVM and Android Runtime (ART) internals: garbage collection, JIT compilation, and profiling with Java Flight Recorder.
 
-- **[ancaria](https://ancaria.dev)**: a mod loader for Sacred Gold (2004), with hooks only in memory and a Rust bridge to the JVM.
-- **[Bytekodex](https://github.com/bytekodex)**: a Rust engine that renders JVM bytecode as images.
+<p align="center">
+<a href="https://ancaria.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/ancaria-en-dark.svg"><img src="cards/ancaria-en-light.svg" width="49%" alt="ancaria: A mod loader for Sacred Gold (2004), with hooks only in memory and a Rust bridge to the JVM."></picture></a>
+<a href="https://github.com/bytekodex"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/bytekodex-en-dark.svg"><img src="cards/bytekodex-en-light.svg" width="49%" alt="Bytekodex: A Rust engine that renders JVM bytecode as images, behind a bot that compiles code in a sandbox."></picture></a>
+</p>
 
 ### Backend and observability
 
-- **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: a Minecraft server on HTTP, with 129 REST operations, OpenAPI, and a WebSocket event feed.
-- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: a Prometheus exporter in Go that turns a Minecraft server into metrics.
-- **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)**: a Grafana dashboard for those metrics, from tick times and garbage collection to players and chat, [published on grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-worldapi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/worldapi-en-dark.svg"><img src="cards/worldapi-en-light.svg" width="49%" alt="WorldAPI: A Minecraft server on HTTP, with 129 REST operations, OpenAPI, and a WebSocket event feed."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-exporter"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/exporter-en-dark.svg"><img src="cards/exporter-en-light.svg" width="49%" alt="minecraft-exporter: A Prometheus exporter that turns a Minecraft server into metrics."></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-en-dark.svg"><img src="cards/grafana-en-light.svg" width="99%" alt="minecraft-grafana: A Grafana dashboard for those metrics, published on grafana.com."></picture></a>
+</p>
 
 Some projects here are finished, some are in active development, and others are no longer maintained.
 
@@ -68,28 +82,42 @@ Some projects here are finished, some are in active development, and others are 
 
 ### ИИ-агенты
 
-- **[Allay](https://allay.chat)** — ИИ-помощник для серверов Minecraft на собственном харнессе: тулы, субагенты, память и трассировка в OpenTelemetry.
-- **[ctxray](https://github.com/MairwunNx/ctxray)** — показывает, что Claude Code, Codex и Cursor загружают в контекст модели, и проверяет это в CI, включая оценку выбора скиллов на реальных моделях.
-- **[minecraft-mcp](https://github.com/MairwunNx/minecraft-mcp)** — MCP-сервер на 51 тул с правами доступа по токену.
-- **[Xi](https://github.com/MairwunNx/xi)** — мультимодальный ИИ-ассистент для Telegram: текст, голос и изображения через пять LLM-провайдеров, память между сессиями.
+<p align="center">
+<a href="https://allay.chat"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/allay-ru-dark.svg"><img src="cards/allay-ru-light.svg" width="49%" alt="Allay: ИИ-помощник для серверов Minecraft на собственном харнессе: тулы, субагенты, память и трейсинг в OpenTelemetry."></picture></a>
+<a href="https://github.com/MairwunNx/ctxray"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/ctxray-ru-dark.svg"><img src="cards/ctxray-ru-light.svg" width="49%" alt="ctxray: Дебаггер и тесты для ИИ-харнессов: показывает, что Claude Code, Codex и Cursor загружают в модель, и проверяет это в CI."></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-ru-dark.svg"><img src="cards/mcp-ru-light.svg" width="49%" alt="minecraft-mcp: MCP-сервер на 51 тул, через который ИИ-агент видит Minecraft-сервер и управляет им, с правами доступа по токену."></picture></a>
+<a href="https://github.com/MairwunNx/xi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/xi-ru-dark.svg"><img src="cards/xi-ru-light.svg" width="49%" alt="Xi: Мультимодальный ИИ-ассистент для Telegram: текст, голос и изображения через пять LLM-провайдеров, память между сессиями."></picture></a>
+</p>
 
 ### Архитектура
 
-- **[Capsa](https://github.com/MairwunNx/Capsa)** — движок моей Capability Slice Architecture, архитектуры декларативного UI, в которой каждая возможность (capability) владеет своим срезом состояния и одним пользовательским сценарием.
-- **[Feature-Action Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — архитектура бэкенда: вертикальные срезы по бизнес-доменам и действия (actions) вместо сервисных классов.
+<p align="center">
+<a href="https://github.com/MairwunNx/Capsa"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/capsa-ru-dark.svg"><img src="cards/capsa-ru-light.svg" width="49%" alt="Capsa: Движок моей Capability Slice Architecture, архитектуры декларативного UI, в которой каждая возможность владеет своим срезом состояния и одним пользовательским сценарием."></picture></a>
+<a href="https://github.com/MairwunNx/Feature-Action-Architecture"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/faa-ru-dark.svg"><img src="cards/faa-ru-light.svg" width="49%" alt="Feature-Action Architecture: Архитектура бэкенда: вертикальные срезы по бизнес-доменам и действия (actions) вместо сервисных классов."></picture></a>
+</p>
 
 ### Системное программирование и реверс-инжиниринг
 
 Опираюсь на знание внутреннего устройства JVM и Android Runtime (ART): сборки мусора, JIT-компиляции, профилирования через Java Flight Recorder.
 
-- **[ancaria](https://ancaria.dev)** — загрузчик модов для Sacred Gold (2004): хуки только в памяти и мост на Rust до JVM.
-- **[Bytekodex](https://github.com/bytekodex)** — движок на Rust, который рисует байткод JVM.
+<p align="center">
+<a href="https://ancaria.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/ancaria-ru-dark.svg"><img src="cards/ancaria-ru-light.svg" width="49%" alt="ancaria: Модлоадер для Sacred Gold (2004): хуки только в памяти и мост на Rust до JVM."></picture></a>
+<a href="https://github.com/bytekodex"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/bytekodex-ru-dark.svg"><img src="cards/bytekodex-ru-light.svg" width="49%" alt="Bytekodex: Движок на Rust, который рисует байткод JVM, и бот, который компилирует код в песочнице."></picture></a>
+</p>
 
 ### Бэкенд и наблюдаемость
 
-- **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)** — Minecraft-сервер через HTTP: 129 REST-операций, OpenAPI и WebSocket-поток событий.
-- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)** — экспортер Prometheus на Go, который превращает Minecraft-сервер в метрики.
-- **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)** — дашборд Grafana для этих метрик, от времени тика и сборки мусора до игроков и чата, [опубликован на grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-worldapi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/worldapi-ru-dark.svg"><img src="cards/worldapi-ru-light.svg" width="49%" alt="WorldAPI: Minecraft-сервер через HTTP: 129 REST-операций, OpenAPI и WebSocket-поток событий."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-exporter"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/exporter-ru-dark.svg"><img src="cards/exporter-ru-light.svg" width="49%" alt="minecraft-exporter: Экспортер Prometheus, который превращает Minecraft-сервер в метрики."></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-ru-dark.svg"><img src="cards/grafana-ru-light.svg" width="99%" alt="minecraft-grafana: Дашборд Grafana для этих метрик, опубликован на grafana.com."></picture></a>
+</p>
 
 Часть проектов здесь завершена, часть в разработке, а некоторые я больше не поддерживаю.
 
@@ -106,28 +134,42 @@ En la ingeniería desde 2017. He trabajado en sistemas móviles y backend de alt
 
 ### Agentes de IA
 
-- **[Allay](https://allay.chat)**: un asistente de IA para servidores de Minecraft sobre mi propio agent harness, con herramientas, subagentes, memoria y trazas de OpenTelemetry.
-- **[ctxray](https://github.com/MairwunNx/ctxray)**: muestra lo que Claude Code, Codex y Cursor cargan en el contexto del modelo y lo prueba en CI, incluida la evaluación de la selección de skills con modelos reales.
-- **[minecraft-mcp](https://github.com/MairwunNx/minecraft-mcp)**: un servidor MCP con 51 herramientas y permisos por token.
-- **[Xi](https://github.com/MairwunNx/xi)**: un asistente de IA multimodal para Telegram, con texto, voz e imágenes a través de cinco proveedores de LLM y memoria entre sesiones.
+<p align="center">
+<a href="https://allay.chat"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/allay-es-dark.svg"><img src="cards/allay-es-light.svg" width="49%" alt="Allay: Un asistente de IA para servidores de Minecraft sobre mi propio agent harness, con herramientas, subagentes, memoria y trazas de OpenTelemetry."></picture></a>
+<a href="https://github.com/MairwunNx/ctxray"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/ctxray-es-dark.svg"><img src="cards/ctxray-es-light.svg" width="49%" alt="ctxray: Un depurador y ejecutor de pruebas para agent harnesses: muestra lo que Claude Code, Codex y Cursor cargan en el modelo y lo prueba en CI."></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-es-dark.svg"><img src="cards/mcp-es-light.svg" width="49%" alt="minecraft-mcp: Un servidor MCP con 51 herramientas que permite a un agente de IA ver y manejar un servidor de Minecraft, con permisos por token."></picture></a>
+<a href="https://github.com/MairwunNx/xi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/xi-es-dark.svg"><img src="cards/xi-es-light.svg" width="49%" alt="Xi: Un asistente de IA multimodal para Telegram: texto, voz e imágenes a través de cinco proveedores de LLM, con memoria entre sesiones."></picture></a>
+</p>
 
 ### Arquitectura
 
-- **[Capsa](https://github.com/MairwunNx/Capsa)**: el motor de Capability Slice Architecture, mi arquitectura para UI declarativa, en la que cada capacidad gestiona una porción del estado y un escenario de usuario.
-- **[Feature-Action Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)**: una arquitectura de backend con porciones verticales por dominio de negocio y acciones en lugar de clases de servicio.
+<p align="center">
+<a href="https://github.com/MairwunNx/Capsa"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/capsa-es-dark.svg"><img src="cards/capsa-es-light.svg" width="49%" alt="Capsa: El motor de Capability Slice Architecture, mi arquitectura para UI declarativa, en la que cada capacidad gestiona una porción del estado y un escenario de usuario."></picture></a>
+<a href="https://github.com/MairwunNx/Feature-Action-Architecture"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/faa-es-dark.svg"><img src="cards/faa-es-light.svg" width="49%" alt="Feature-Action Architecture: Una arquitectura de backend con porciones verticales por dominio de negocio y acciones en lugar de clases de servicio."></picture></a>
+</p>
 
 ### Programación de sistemas e ingeniería inversa
 
 Basada en los componentes internos de la JVM y de Android Runtime (ART): recolección de basura, compilación JIT y perfilado con Java Flight Recorder.
 
-- **[ancaria](https://ancaria.dev)**: un cargador de mods para Sacred Gold (2004), con hooks solo en memoria y un puente en Rust hacia la JVM.
-- **[Bytekodex](https://github.com/bytekodex)**: un motor en Rust que dibuja bytecode de la JVM.
+<p align="center">
+<a href="https://ancaria.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/ancaria-es-dark.svg"><img src="cards/ancaria-es-light.svg" width="49%" alt="ancaria: Un cargador de mods para Sacred Gold (2004), con hooks solo en memoria y un puente en Rust hacia la JVM."></picture></a>
+<a href="https://github.com/bytekodex"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/bytekodex-es-dark.svg"><img src="cards/bytekodex-es-light.svg" width="49%" alt="Bytekodex: Un motor en Rust que dibuja bytecode de la JVM, detrás de un bot que compila código en un sandbox."></picture></a>
+</p>
 
 ### Backend y observabilidad
 
-- **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: un servidor de Minecraft sobre HTTP, con 129 operaciones REST, OpenAPI y un flujo de eventos por WebSocket.
-- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: un exportador de Prometheus en Go que convierte un servidor de Minecraft en métricas.
-- **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)**: un dashboard de Grafana para esas métricas, desde los tiempos de tick y la recolección de basura hasta los jugadores y el chat, [publicado en grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-worldapi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/worldapi-es-dark.svg"><img src="cards/worldapi-es-light.svg" width="49%" alt="WorldAPI: Un servidor de Minecraft sobre HTTP, con 129 operaciones REST, OpenAPI y un flujo de eventos por WebSocket."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-exporter"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/exporter-es-dark.svg"><img src="cards/exporter-es-light.svg" width="49%" alt="minecraft-exporter: Un exportador de Prometheus que convierte un servidor de Minecraft en métricas."></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-es-dark.svg"><img src="cards/grafana-es-light.svg" width="99%" alt="minecraft-grafana: Un dashboard de Grafana para esas métricas, publicado en grafana.com."></picture></a>
+</p>
 
 Algunos proyectos están terminados, otros siguen en desarrollo y algunos ya no reciben mantenimiento.
 

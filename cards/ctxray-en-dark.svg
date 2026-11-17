@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="185" viewBox="0 0 410 185" role="img" aria-label="ctxray">
+<rect x="0.5" y="0.5" width="409" height="184" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="18" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#9fd65b">ctxray</text>
+<text x="392" y="31" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#6e7681">↗</text>
+<text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">A debugger and test runner for agent harnesses: shows</text>
+<text x="18" y="73" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">what Claude Code, Codex, and Cursor load into the model</text>
+<text x="18" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">and tests it in CI.</text>
+<rect x="18.0" y="105" width="35.4" height="20" rx="10" fill="#9fd65b" fill-opacity="0.12"/>
+<text x="26.0" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">Bun</text>
+<rect x="59.4" y="105" width="35.4" height="20" rx="10" fill="#9fd65b" fill-opacity="0.12"/>
+<text x="67.4" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">MCP</text>
+<rect x="100.9" y="105" width="29.0" height="20" rx="10" fill="#9fd65b" fill-opacity="0.12"/>
+<text x="108.9" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">CI</text>
+<rect x="135.8" y="105" width="87.3" height="20" rx="10" fill="#9fd65b" fill-opacity="0.12"/>
+<text x="143.8" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">Claude Code</text>
+<line x1="18" y1="137" x2="392" y2="137" stroke="#30363d"/>
+<clipPath id="bar-ctxray"><rect x="18" y="149" width="374" height="6" rx="3"/></clipPath><g clip-path="url(#bar-ctxray)">
+<rect x="18.0" y="149" width="372.0" height="6" fill="#3178c6"/>
+<rect x="392.0" y="149" width="3.0" height="6" fill="#a97bff"/>
+</g>
+<circle cx="22" cy="167.5" r="4" fill="#3178c6"/>
+<text x="30" y="171" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#9198a1">TypeScript <tspan fill="#6e7681">100%</tspan></text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="185" viewBox="0 0 410 185" role="img" aria-label="Xi">
+<rect x="0.5" y="0.5" width="409" height="184" rx="10" fill="#161b22" stroke="#30363d"/>
+<text x="18" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#9fd65b">Xi</text>
+<text x="392" y="31" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#6e7681">↗</text>
+<text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">Un asistente de IA multimodal para Telegram: texto, voz e</text>
+<text x="18" y="73" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">imágenes a través de cinco proveedores de LLM, con</text>
+<text x="18" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">memoria entre sesiones.</text>
+<rect x="18.0" y="105" width="80.8" height="20" rx="10" fill="#9fd65b" fill-opacity="0.12"/>
+<text x="26.0" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">PostgreSQL</text>
+<rect x="104.8" y="105" width="48.4" height="20" rx="10" fill="#9fd65b" fill-opacity="0.12"/>
+<text x="112.8" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">Redis</text>
+<rect x="159.2" y="105" width="54.9" height="20" rx="10" fill="#9fd65b" fill-opacity="0.12"/>
+<text x="167.2" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">Docker</text>
+<line x1="18" y1="137" x2="392" y2="137" stroke="#30363d"/>
+<clipPath id="bar-xi"><rect x="18" y="149" width="374" height="6" rx="3"/></clipPath><g clip-path="url(#bar-xi)">
+<rect x="18.0" y="149" width="300.3" height="6" fill="#00add8"/>
+<rect x="320.3" y="149" width="63.6" height="6" fill="#3178c6"/>
+<rect x="385.9" y="149" width="3.0" height="6" fill="#555555"/>
+<rect x="390.9" y="149" width="3.0" height="6" fill="#336790"/>
+</g>
+<circle cx="22" cy="167.5" r="4" fill="#00add8"/>
+<text x="30" y="171" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#9198a1">Go <tspan fill="#6e7681">82%</tspan></text>
+<circle cx="88.88" cy="167.5" r="4" fill="#3178c6"/>
+<text x="96.88" y="171" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#9198a1">TypeScript <tspan fill="#6e7681">17%</tspan></text>
+</svg>

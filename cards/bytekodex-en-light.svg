@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="410" height="182" viewBox="0 0 410 182" role="img" aria-label="Bytekodex">
+<rect x="0.5" y="0.5" width="409" height="181" rx="10" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="18" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#3f6f0e">Bytekodex</text>
+<text x="392" y="31" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#818b98">↗</text>
+<text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#59636e">A Rust engine that renders JVM bytecode as images,</text>
+<text x="18" y="73" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#59636e">behind a bot that compiles code in a sandbox.</text>
+<rect x="18.0" y="86" width="48.4" height="20" rx="10" fill="#3f6f0e" fill-opacity="0.10"/>
+<text x="26.0" y="99.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#424a53">C ABI</text>
+<rect x="72.4" y="86" width="61.4" height="20" rx="10" fill="#3f6f0e" fill-opacity="0.10"/>
+<text x="80.4" y="99.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#424a53">Sandbox</text>
+<rect x="139.8" y="86" width="67.8" height="20" rx="10" fill="#3f6f0e" fill-opacity="0.10"/>
+<text x="147.8" y="99.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#424a53">Telegram</text>
+<line x1="18" y1="118" x2="392" y2="118" stroke="#d0d7de"/>
+<clipPath id="bar-bytekodex"><rect x="18" y="130" width="374" height="6" rx="3"/></clipPath><g clip-path="url(#bar-bytekodex)">
+<rect x="18.0" y="130" width="209.7" height="6" fill="#00add8"/>
+<rect x="229.7" y="130" width="151.6" height="6" fill="#dea584"/>
+<rect x="383.2" y="130" width="8.8" height="6" fill="#555555"/>
+</g>
+<circle cx="22" cy="148.5" r="4" fill="#00add8"/>
+<text x="30" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">Go <tspan fill="#818b98">57%</tspan></text>
+<circle cx="88.88" cy="148.5" r="4" fill="#dea584"/>
+<text x="96.88" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">Rust <tspan fill="#818b98">41%</tspan></text>
+<circle cx="168.72" cy="148.5" r="4" fill="#555555"/>
+<text x="176.72" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">C <tspan fill="#818b98">2%</tspan></text>
+</svg>
