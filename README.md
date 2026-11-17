@@ -31,7 +31,7 @@ Built on JVM and Android Runtime (ART) internals: garbage collection, JIT compil
 
 Some projects here are finished, some are in active development, and others are no longer maintained.
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/kotlin/kotlin-original.svg" height="36" alt="Kotlin" title="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/java/java-original.svg" height="36" alt="Java" title="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
