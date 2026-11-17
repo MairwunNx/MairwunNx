@@ -13,20 +13,22 @@ In engineering since 2017. I’ve designed and built high-load mobile and backen
 
 ### Architecture
 
-- **[Capsa](https://github.com/MairwunNx/Capsa)**: the engine behind Capability Slice Architecture, my architecture for declarative UI, where each capability owns one slice of state and one user scenario. For Compose Multiplatform and F# Avalonia.
+- **[Capsa](https://github.com/MairwunNx/Capsa)**: the engine behind Capability Slice Architecture, my architecture for declarative UI, where each capability owns one slice of state and one user scenario.
 - **[Feature-Action Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)**: a backend architecture with vertical slices by business domain and actions instead of service classes.
 
 ### Systems programming and reverse engineering
 
 Built on JVM and Android Runtime (ART) internals: garbage collection, JIT compilation, and profiling with Java Flight Recorder.
 
-- **[ancaria](https://ancaria.dev)**: a mod loader for a 2004 game, with hooks only in memory and a Rust bridge to the JVM.
+- **[ancaria](https://ancaria.dev)**: a mod loader for Sacred Gold (2004), with hooks only in memory and a Rust bridge to the JVM.
 - **[Bytekodex](https://github.com/bytekodex)**: a Rust engine that renders JVM bytecode as images.
 
-### Backend and observability
+### Backend, infrastructure, and observability
 
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: a Minecraft server on HTTP, with 129 REST operations, OpenAPI, and a WebSocket event feed.
-- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: a Prometheus exporter in Go that turns a Minecraft server into metrics, with a [Grafana dashboard](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/) on grafana.com.
+- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: a Prometheus exporter in Go that turns a Minecraft server into metrics.
+- **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)**: a Grafana dashboard for those metrics, from tick times and garbage collection to players and chat, [published on grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
+- **[Electronic Shop Demo](https://github.com/Electronic-Shop-Demo)**: a showcase shop with a Spring Boot backend on PostgreSQL, MongoDB, and Redis, a Micronaut analytics service, and Android, JavaFX, and Electron clients.
 
 Some projects here are finished, some are in active development, and others are no longer maintained.
 
@@ -74,20 +76,22 @@ Some projects here are finished, some are in active development, and others are 
 
 ### Архитектура
 
-- **[Capsa](https://github.com/MairwunNx/Capsa)** — движок моей Capability Slice Architecture, архитектуры декларативного UI, в которой каждая возможность (capability) владеет своим срезом состояния и одним пользовательским сценарием. Для Compose Multiplatform и F# Avalonia.
+- **[Capsa](https://github.com/MairwunNx/Capsa)** — движок моей Capability Slice Architecture, архитектуры декларативного UI, в которой каждая возможность (capability) владеет своим срезом состояния и одним пользовательским сценарием.
 - **[Feature-Action Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)** — архитектура бэкенда: вертикальные срезы по бизнес-доменам и действия (actions) вместо сервисных классов.
 
 ### Системное программирование и реверс-инжиниринг
 
 Опираюсь на знание внутреннего устройства JVM и Android Runtime (ART): сборки мусора, JIT-компиляции, профилирования через Java Flight Recorder.
 
-- **[ancaria](https://ancaria.dev)** — загрузчик модов для игры 2004 года: хуки только в памяти и мост на Rust до JVM.
+- **[ancaria](https://ancaria.dev)** — загрузчик модов для Sacred Gold (2004): хуки только в памяти и мост на Rust до JVM.
 - **[Bytekodex](https://github.com/bytekodex)** — движок на Rust, который рисует байткод JVM.
 
-### Бэкенд и наблюдаемость
+### Бэкенд, инфраструктура и наблюдаемость
 
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)** — Minecraft-сервер через HTTP: 129 REST-операций, OpenAPI и WebSocket-поток событий.
-- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)** — экспортер Prometheus на Go, который превращает Minecraft-сервер в метрики. [Дашборд Grafana](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/) опубликован на grafana.com.
+- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)** — экспортер Prometheus на Go, который превращает Minecraft-сервер в метрики.
+- **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)** — дашборд Grafana для этих метрик, от времени тика и сборки мусора до игроков и чата, [опубликован на grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
+- **[Electronic Shop Demo](https://github.com/Electronic-Shop-Demo)** — демонстрационный магазин: бэкенд на Spring Boot с PostgreSQL, MongoDB и Redis, сервис аналитики на Micronaut, клиенты на Android, JavaFX и Electron.
 
 Часть проектов здесь завершена, часть в разработке, а некоторые я больше не поддерживаю.
 
@@ -111,20 +115,22 @@ En la ingeniería desde 2017. He diseñado y desarrollado sistemas móviles y ba
 
 ### Arquitectura
 
-- **[Capsa](https://github.com/MairwunNx/Capsa)**: el motor de Capability Slice Architecture, mi arquitectura para UI declarativa, en la que cada capacidad gestiona una porción del estado y un escenario de usuario. Para Compose Multiplatform y F# Avalonia.
+- **[Capsa](https://github.com/MairwunNx/Capsa)**: el motor de Capability Slice Architecture, mi arquitectura para UI declarativa, en la que cada capacidad gestiona una porción del estado y un escenario de usuario.
 - **[Feature-Action Architecture](https://github.com/MairwunNx/Feature-Action-Architecture)**: una arquitectura de backend con porciones verticales por dominio de negocio y acciones en lugar de clases de servicio.
 
 ### Programación de sistemas e ingeniería inversa
 
 Basada en los componentes internos de la JVM y de Android Runtime (ART): recolección de basura, compilación JIT y perfilado con Java Flight Recorder.
 
-- **[ancaria](https://ancaria.dev)**: un cargador de mods para un juego de 2004, con hooks solo en memoria y un puente en Rust hacia la JVM.
+- **[ancaria](https://ancaria.dev)**: un cargador de mods para Sacred Gold (2004), con hooks solo en memoria y un puente en Rust hacia la JVM.
 - **[Bytekodex](https://github.com/bytekodex)**: un motor en Rust que dibuja bytecode de la JVM.
 
-### Backend y observabilidad
+### Backend, infraestructura y observabilidad
 
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: un servidor de Minecraft sobre HTTP, con 129 operaciones REST, OpenAPI y un flujo de eventos por WebSocket.
-- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: un exportador de Prometheus en Go que convierte un servidor de Minecraft en métricas, con un [dashboard de Grafana](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/) en grafana.com.
+- **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: un exportador de Prometheus en Go que convierte un servidor de Minecraft en métricas.
+- **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)**: un dashboard de Grafana para esas métricas, desde los tiempos de tick y la recolección de basura hasta los jugadores y el chat, [publicado en grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
+- **[Electronic Shop Demo](https://github.com/Electronic-Shop-Demo)**: una tienda de demostración con un backend en Spring Boot sobre PostgreSQL, MongoDB y Redis, un servicio de analítica en Micronaut y clientes para Android, JavaFX y Electron.
 
 Algunos proyectos están terminados, otros siguen en desarrollo y algunos ya no reciben mantenimiento.
 
