@@ -40,7 +40,7 @@ Built on JVM and Android Runtime (ART) internals: garbage collection, JIT compil
 </p>
 
 <p align="center">
-<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-en-dark.svg"><img src="cards/grafana-en-light.svg" width="99%" alt="minecraft-grafana: A Grafana dashboard for those metrics, published on grafana.com."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-en-dark.svg"><img src="cards/grafana-en-light.svg" width="98.4%" alt="minecraft-grafana: A Grafana dashboard for those metrics, published on grafana.com."></picture></a>
 </p>
 
 Some projects here are finished, some are in active development, and others are no longer maintained.
@@ -116,7 +116,7 @@ Some projects here are finished, some are in active development, and others are 
 </p>
 
 <p align="center">
-<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-ru-dark.svg"><img src="cards/grafana-ru-light.svg" width="99%" alt="minecraft-grafana: Дашборд Grafana для этих метрик, опубликован на grafana.com."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-ru-dark.svg"><img src="cards/grafana-ru-light.svg" width="98.4%" alt="minecraft-grafana: Дашборд Grafana для этих метрик, опубликован на grafana.com."></picture></a>
 </p>
 
 Часть проектов здесь завершена, часть в разработке, а некоторые я больше не поддерживаю.
@@ -168,7 +168,7 @@ Basada en los componentes internos de la JVM y de Android Runtime (ART): recolec
 </p>
 
 <p align="center">
-<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-es-dark.svg"><img src="cards/grafana-es-light.svg" width="99%" alt="minecraft-grafana: Un dashboard de Grafana para esas métricas, publicado en grafana.com."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-grafana"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/grafana-es-dark.svg"><img src="cards/grafana-es-light.svg" width="98.4%" alt="minecraft-grafana: Un dashboard de Grafana para esas métricas, publicado en grafana.com."></picture></a>
 </p>
 
 Algunos proyectos están terminados, otros siguen en desarrollo y algunos ya no reciben mantenimiento.
