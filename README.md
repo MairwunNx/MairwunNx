@@ -2,7 +2,7 @@
 
 Software engineer and architect in Madrid, focused on AI agents and the tooling around them: agent harnesses, MCP servers, and LLM evaluation.
 
-In engineering since 2017. I’ve designed and built high-load mobile and backend systems at Wildberries (100M+ MAU), Guava Pay, Alfa-Bank, and MTS Bank.
+In engineering since 2017. I’ve worked on high-load mobile and backend systems at Wildberries (100M+ MAU), Guava Pay, Alfa-Bank, and MTS Bank, designing and shipping features from architecture to release.
 
 ### AI agents
 
@@ -64,7 +64,7 @@ Some projects here are finished, some are in active development, and others are 
 
 Инженер-программист и архитектор из Мадрида. Специализируюсь на ИИ-агентах и инструментах вокруг них: ИИ-харнессах, MCP-серверах и оценке качества LLM.
 
-В разработке с 2017 года. Проектировал и разрабатывал высоконагруженные мобильные и серверные системы в Wildberries (100M+ MAU), Guava Pay, Альфа-Банке и МТС Банке.
+В разработке с 2017 года. Работал над высоконагруженными мобильными и серверными системами в Wildberries (100M+ MAU), Guava Pay, Альфа-Банке и МТС Банке: проектировал и выпускал фичи от архитектуры до релиза.
 
 ### ИИ-агенты
 
@@ -102,7 +102,7 @@ Some projects here are finished, some are in active development, and others are 
 
 Ingeniero de software y arquitecto en Madrid, centrado en agentes de IA y las herramientas a su alrededor: agent harnesses, servidores MCP y evaluación de LLM.
 
-En la ingeniería desde 2017. He diseñado y desarrollado sistemas móviles y backend de alta carga en Wildberries (más de 100M de MAU), Guava Pay, Alfa-Bank y MTS Bank.
+En la ingeniería desde 2017. He trabajado en sistemas móviles y backend de alta carga en Wildberries (más de 100M de MAU), Guava Pay, Alfa-Bank y MTS Bank, diseñando y lanzando funciones desde la arquitectura hasta la versión final.
 
 ### Agentes de IA
 
