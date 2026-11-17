@@ -28,7 +28,6 @@ Built on JVM and Android Runtime (ART) internals: garbage collection, JIT compil
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: a Minecraft server on HTTP, with 129 REST operations, OpenAPI, and a WebSocket event feed.
 - **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: a Prometheus exporter in Go that turns a Minecraft server into metrics.
 - **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)**: a Grafana dashboard for those metrics, from tick times and garbage collection to players and chat, [published on grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
-- **[Electronic Shop Demo](https://github.com/Electronic-Shop-Demo)**: a showcase shop with a Spring Boot backend on PostgreSQL, MongoDB, and Redis, a Micronaut analytics service, and Android, JavaFX, and Electron clients.
 
 Some projects here are finished, some are in active development, and others are no longer maintained.
 
@@ -91,7 +90,6 @@ Some projects here are finished, some are in active development, and others are 
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)** — Minecraft-сервер через HTTP: 129 REST-операций, OpenAPI и WebSocket-поток событий.
 - **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)** — экспортер Prometheus на Go, который превращает Minecraft-сервер в метрики.
 - **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)** — дашборд Grafana для этих метрик, от времени тика и сборки мусора до игроков и чата, [опубликован на grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
-- **[Electronic Shop Demo](https://github.com/Electronic-Shop-Demo)** — демонстрационный магазин: бэкенд на Spring Boot с PostgreSQL, MongoDB и Redis, сервис аналитики на Micronaut, клиенты на Android, JavaFX и Electron.
 
 Часть проектов здесь завершена, часть в разработке, а некоторые я больше не поддерживаю.
 
@@ -130,7 +128,6 @@ Basada en los componentes internos de la JVM y de Android Runtime (ART): recolec
 - **[WorldAPI](https://github.com/MairwunNx/minecraft-worldapi)**: un servidor de Minecraft sobre HTTP, con 129 operaciones REST, OpenAPI y un flujo de eventos por WebSocket.
 - **[minecraft-exporter](https://github.com/MairwunNx/minecraft-exporter)**: un exportador de Prometheus en Go que convierte un servidor de Minecraft en métricas.
 - **[minecraft-grafana](https://github.com/MairwunNx/minecraft-grafana)**: un dashboard de Grafana para esas métricas, desde los tiempos de tick y la recolección de basura hasta los jugadores y el chat, [publicado en grafana.com](https://grafana.com/grafana/dashboards/25941-minecraft-server-minecraft-exporter/).
-- **[Electronic Shop Demo](https://github.com/Electronic-Shop-Demo)**: una tienda de demostración con un backend en Spring Boot sobre PostgreSQL, MongoDB y Redis, un servicio de analítica en Micronaut y clientes para Android, JavaFX y Electron.
 
 Algunos proyectos están terminados, otros siguen en desarrollo y algunos ya no reciben mantenimiento.
 
