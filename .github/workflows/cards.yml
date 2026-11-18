@@ -1,13 +1,16 @@
 name: Cards
 
-# Counts stars and language shares of my projects and redraws the README cards.
-# Runs every night, after a change of texts or of the drawing script, and by hand.
 on:
   schedule:
     - cron: "17 3 * * *"
   push:
     branches: [master]
-    paths: [cards/data.json, scripts/cards.py, .github/workflows/cards.yml]
+    paths:
+      - sources.json
+      - theme.json
+      - TEMPLATE.md
+      - scripts/**
+      - .github/workflows/cards.yml
   workflow_dispatch:
 
 permissions:
@@ -37,5 +40,5 @@ jobs:
           if git diff --cached --quiet; then echo "No changes"; exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "Update project stars and languages"
+          git commit -m "Update project cards"
           git push
