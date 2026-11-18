@@ -71,11 +71,26 @@ def api(path):
         return json.load(r)
 
 
+def expand(repo):
+    """“owner/name” is one repository, “owner/*” every public repository of an organization or a user, forks aside."""
+    owner, name = repo.split("/")
+    if name != "*":
+        return [repo]
+    kind = "orgs" if api(f"users/{owner}")["type"] == "Organization" else "users"
+    found, page = [], 1
+    while True:
+        batch = api(f"{kind}/{owner}/repos?type=public&per_page=100&page={page}")
+        found += [r["full_name"] for r in batch if not r["fork"]]
+        if len(batch) < 100:
+            return sorted(found)
+        page += 1
+
+
 def stats(key, project):
     """Stars summed over the project's repositories, and language shares by GitHub's byte counts:
     top four, the rest as Other. Build and config languages say nothing about the code, so they don't count."""
     stars, total = 0, {}
-    for repo in project["repos"]:
+    for repo in [r for pattern in project["repos"] for r in expand(pattern)]:
         stars += api(f"repos/{repo}")["stargazers_count"]
         for name, size in api(f"repos/{repo}/languages").items():
             if name not in DATA["noise"]:

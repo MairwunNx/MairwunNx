@@ -4,8 +4,7 @@
    "name": "Allay",
    "url": "https://allay.chat",
    "repos": [
-    "allay-ai/server",
-    "allay-ai/minecraft"
+    "allay-ai/*"
    ],
    "tags": [
     "Mastra",
@@ -95,14 +94,7 @@
    "name": "ancaria",
    "url": "https://ancaria.dev",
    "repos": [
-    "ancaria-dev/protocol",
-    "ancaria-dev/agent",
-    "ancaria-dev/coderpack",
-    "ancaria-dev/launcher",
-    "ancaria-dev/build",
-    "ancaria-dev/grn2glb",
-    "ancaria-dev/glb2grn",
-    "ancaria-dev/idea"
+    "ancaria-dev/*"
    ],
    "tags": [
     "Frida",
@@ -115,8 +107,7 @@
    "name": "Bytekodex",
    "url": "https://github.com/bytekodex",
    "repos": [
-    "bytekodex/bytekodex-platform",
-    "bytekodex/bytekodex-telegram"
+    "bytekodex/*"
    ],
    "tags": [
     "C ABI",
@@ -211,6 +202,7 @@
   "Python": "#3572a5",
   "Swift": "#f05138",
   "PLpgSQL": "#336790",
+  "ANTLR": "#9dc3ff",
   "Other": "#8b8b85"
  },
  "noise": [
@@ -220,8 +212,11 @@
   "Dockerfile",
   "Groovy",
   "HTML",
+  "Less",
   "Makefile",
   "PowerShell",
+  "SCSS",
+  "Sass",
   "Shell"
  ]
 }
