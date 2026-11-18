@@ -12,10 +12,10 @@
 <text x="141.3" y="99.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#424a53">WebSocket</text>
 <line x1="18" y1="118" x2="392" y2="118" stroke="#d0d7de"/>
 <clipPath id="bar-worldapi"><rect x="18" y="130" width="374" height="6" rx="3"/></clipPath><g clip-path="url(#bar-worldapi)">
-<rect x="18.0" y="130" width="269.2" height="6" fill="#a97bff"/>
-<rect x="289.2" y="130" width="68.4" height="6" fill="#3178c6"/>
-<rect x="359.6" y="130" width="21.0" height="6" fill="#b07219"/>
-<rect x="382.6" y="130" width="9.3" height="6" fill="#3572a5"/>
+<rect x="18.0" y="130" width="269.4" height="6" fill="#a97bff"/>
+<rect x="289.4" y="130" width="68.4" height="6" fill="#3178c6"/>
+<rect x="359.8" y="130" width="21.0" height="6" fill="#b07219"/>
+<rect x="382.8" y="130" width="9.2" height="6" fill="#3572a5"/>
 </g>
 <circle cx="22" cy="148.5" r="4" fill="#a97bff"/>
 <text x="30" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">Kotlin <tspan fill="#818b98">73%</tspan></text>
@@ -24,5 +24,5 @@
 <circle cx="233.52" cy="148.5" r="4" fill="#b07219"/>
 <text x="241.52" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">Java <tspan fill="#818b98">6%</tspan></text>
 <circle cx="306.88" cy="148.5" r="4" fill="#3572a5"/>
-<text x="314.88" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">Python <tspan fill="#818b98">3%</tspan></text>
+<text x="314.88" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">Python <tspan fill="#818b98">2%</tspan></text>
 </svg>

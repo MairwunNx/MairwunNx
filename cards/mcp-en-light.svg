@@ -14,8 +14,8 @@
 <text x="189.2" y="118.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#424a53">HTTP</text>
 <line x1="18" y1="137" x2="392" y2="137" stroke="#d0d7de"/>
 <clipPath id="bar-mcp"><rect x="18" y="149" width="374" height="6" rx="3"/></clipPath><g clip-path="url(#bar-mcp)">
-<rect x="18.0" y="149" width="369.5" height="6" fill="#3178c6"/>
-<rect x="389.5" y="149" width="3.0" height="6" fill="#f1e05a"/>
+<rect x="18.0" y="149" width="369.4" height="6" fill="#3178c6"/>
+<rect x="389.4" y="149" width="3.0" height="6" fill="#f1e05a"/>
 </g>
 <circle cx="22" cy="167.5" r="4" fill="#3178c6"/>
 <text x="30" y="171" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#59636e">TypeScript <tspan fill="#818b98">99%</tspan></text>

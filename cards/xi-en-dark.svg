@@ -2,6 +2,8 @@
 <rect x="0.5" y="0.5" width="409" height="184" rx="10" fill="#161b22" stroke="#30363d"/>
 <text x="18" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#9fd65b">Xi</text>
 <text x="392" y="31" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="14" fill="#6e7681">↗</text>
+<text x="370" y="30" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#9198a1">2</text>
+<path transform="translate(347.0 20) scale(0.75)" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z" fill="#6e7681"/>
 <text x="18" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">A multimodal AI assistant for Telegram: text, voice, and</text>
 <text x="18" y="73" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">images across five LLM providers, with memory across</text>
 <text x="18" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1">sessions.</text>
@@ -14,9 +16,9 @@
 <line x1="18" y1="137" x2="392" y2="137" stroke="#30363d"/>
 <clipPath id="bar-xi"><rect x="18" y="149" width="374" height="6" rx="3"/></clipPath><g clip-path="url(#bar-xi)">
 <rect x="18.0" y="149" width="300.3" height="6" fill="#00add8"/>
-<rect x="320.3" y="149" width="63.6" height="6" fill="#3178c6"/>
-<rect x="385.9" y="149" width="3.0" height="6" fill="#555555"/>
-<rect x="390.9" y="149" width="3.0" height="6" fill="#336790"/>
+<rect x="320.3" y="149" width="63.7" height="6" fill="#3178c6"/>
+<rect x="386.0" y="149" width="3.0" height="6" fill="#555555"/>
+<rect x="391.0" y="149" width="3.0" height="6" fill="#336790"/>
 </g>
 <circle cx="22" cy="167.5" r="4" fill="#00add8"/>
 <text x="30" y="171" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#9198a1">Go <tspan fill="#6e7681">82%</tspan></text>

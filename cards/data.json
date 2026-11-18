@@ -1,0 +1,227 @@
+{
+ "projects": {
+  "allay": {
+   "name": "Allay",
+   "url": "https://allay.chat",
+   "repos": [
+    "allay-ai/server",
+    "allay-ai/minecraft"
+   ],
+   "tags": [
+    "Mastra",
+    "Bun",
+    "OpenRouter",
+    "OpenTelemetry",
+    "Docker"
+   ]
+  },
+  "ctxray": {
+   "name": "ctxray",
+   "url": "https://github.com/MairwunNx/ctxray",
+   "repos": [
+    "MairwunNx/ctxray"
+   ],
+   "tags": [
+    "Bun",
+    "MCP",
+    "CI",
+    "Claude Code"
+   ]
+  },
+  "mcp": {
+   "name": "minecraft-mcp",
+   "url": "https://github.com/MairwunNx/minecraft-mcp",
+   "repos": [
+    "MairwunNx/minecraft-mcp"
+   ],
+   "tags": [
+    "MCP",
+    "Node.js",
+    "stdio",
+    "HTTP"
+   ]
+  },
+  "xi": {
+   "name": "Xi",
+   "url": "https://github.com/MairwunNx/xi",
+   "repos": [
+    "MairwunNx/xi",
+    "MairwunNx/xi-frontend"
+   ],
+   "tags": [
+    "PostgreSQL",
+    "Redis",
+    "Docker"
+   ]
+  },
+  "capsa": {
+   "name": "Capsa",
+   "url": "https://github.com/MairwunNx/Capsa",
+   "repos": [
+    "MairwunNx/Capsa"
+   ],
+   "tags": [
+    "Coroutines",
+    "Compose Multiplatform",
+    "State management"
+   ],
+   "languages": [
+    [
+     "Kotlin",
+     100.0
+    ]
+   ]
+  },
+  "faa": {
+   "name": "Feature-Action Architecture",
+   "url": "https://github.com/MairwunNx/Feature-Action-Architecture",
+   "repos": [
+    "MairwunNx/Feature-Action-Architecture"
+   ],
+   "tags": [
+    "Vertical slices",
+    "Feature-Sliced Design",
+    "DDD",
+    "Functional"
+   ],
+   "languages": [
+    [
+     "TypeScript",
+     100.0
+    ]
+   ]
+  },
+  "ancaria": {
+   "name": "ancaria",
+   "url": "https://ancaria.dev",
+   "repos": [
+    "ancaria-dev/protocol",
+    "ancaria-dev/agent",
+    "ancaria-dev/coderpack",
+    "ancaria-dev/launcher",
+    "ancaria-dev/build",
+    "ancaria-dev/grn2glb",
+    "ancaria-dev/glb2grn",
+    "ancaria-dev/idea"
+   ],
+   "tags": [
+    "Frida",
+    "JVM",
+    "Gradle",
+    "IntelliJ"
+   ]
+  },
+  "bytekodex": {
+   "name": "Bytekodex",
+   "url": "https://github.com/bytekodex",
+   "repos": [
+    "bytekodex/bytekodex-platform",
+    "bytekodex/bytekodex-telegram"
+   ],
+   "tags": [
+    "C ABI",
+    "Sandbox",
+    "Telegram"
+   ]
+  },
+  "worldapi": {
+   "name": "WorldAPI",
+   "url": "https://github.com/MairwunNx/minecraft-worldapi",
+   "repos": [
+    "MairwunNx/minecraft-worldapi"
+   ],
+   "tags": [
+    "Ktor",
+    "OpenAPI",
+    "WebSocket"
+   ]
+  },
+  "exporter": {
+   "name": "minecraft-exporter",
+   "url": "https://github.com/MairwunNx/minecraft-exporter",
+   "repos": [
+    "MairwunNx/minecraft-exporter"
+   ],
+   "tags": [
+    "Prometheus"
+   ]
+  },
+  "grafana": {
+   "name": "minecraft-grafana",
+   "url": "https://github.com/MairwunNx/minecraft-grafana",
+   "repos": [
+    "MairwunNx/minecraft-grafana"
+   ],
+   "tags": [
+    "Grafana",
+    "Prometheus"
+   ]
+  }
+ },
+ "texts": {
+  "en": {
+   "allay": "An AI helper for Minecraft servers, on my own agent harness with tools, sub-agents, memory, and OpenTelemetry traces.",
+   "ctxray": "A debugger and test runner for agent harnesses: shows what Claude Code, Codex, and Cursor load into the model and tests it in CI.",
+   "mcp": "An MCP server with 51 tools that lets an AI agent see and run a Minecraft server, with token-scoped permissions.",
+   "xi": "A multimodal AI assistant for Telegram: text, voice, and images across five LLM providers, with memory across sessions.",
+   "capsa": "The engine behind Capability Slice Architecture, my architecture for declarative UI, where each capability owns one slice of state and one user scenario.",
+   "faa": "A backend architecture with vertical slices by business domain and actions instead of service classes.",
+   "ancaria": "A mod loader for Sacred Gold (2004), with hooks only in memory and a Rust bridge to the JVM.",
+   "bytekodex": "A Rust engine that renders JVM bytecode as images, behind a bot that compiles code in a sandbox.",
+   "worldapi": "A Minecraft server on HTTP, with 129 REST operations, OpenAPI, and a WebSocket event feed.",
+   "exporter": "A Prometheus exporter that turns a Minecraft server into metrics.",
+   "grafana": "A Grafana dashboard for those metrics, published on grafana.com."
+  },
+  "ru": {
+   "allay": "ИИ-помощник для серверов Minecraft на собственном харнессе: тулы, субагенты, память и трейсинг в OpenTelemetry.",
+   "ctxray": "Дебаггер и тесты для ИИ-харнессов: показывает, что Claude Code, Codex и Cursor загружают в модель, и проверяет это в CI.",
+   "mcp": "MCP-сервер на 51 тул, через который ИИ-агент видит Minecraft-сервер и управляет им, с правами доступа по токену.",
+   "xi": "Мультимодальный ИИ-ассистент для Telegram: текст, голос и изображения через пять LLM-провайдеров, память между сессиями.",
+   "capsa": "Движок моей Capability Slice Architecture, архитектуры декларативного UI, в которой каждая возможность владеет своим срезом состояния и одним пользовательским сценарием.",
+   "faa": "Архитектура бэкенда: вертикальные срезы по бизнес-доменам и действия (actions) вместо сервисных классов.",
+   "ancaria": "Модлоадер для Sacred Gold (2004): хуки только в памяти и мост на Rust до JVM.",
+   "bytekodex": "Движок на Rust, который рисует байткод JVM, и бот, который компилирует код в песочнице.",
+   "worldapi": "Minecraft-сервер через HTTP: 129 REST-операций, OpenAPI и WebSocket-поток событий.",
+   "exporter": "Экспортер Prometheus, который превращает Minecraft-сервер в метрики.",
+   "grafana": "Дашборд Grafana для этих метрик, опубликован на grafana.com."
+  },
+  "es": {
+   "allay": "Un asistente de IA para servidores de Minecraft sobre mi propio agent harness, con herramientas, subagentes, memoria y trazas de OpenTelemetry.",
+   "ctxray": "Un depurador y ejecutor de pruebas para agent harnesses: muestra lo que Claude Code, Codex y Cursor cargan en el modelo y lo prueba en CI.",
+   "mcp": "Un servidor MCP con 51 herramientas que permite a un agente de IA ver y manejar un servidor de Minecraft, con permisos por token.",
+   "xi": "Un asistente de IA multimodal para Telegram: texto, voz e imágenes a través de cinco proveedores de LLM, con memoria entre sesiones.",
+   "capsa": "El motor de Capability Slice Architecture, mi arquitectura para UI declarativa, en la que cada capacidad gestiona una porción del estado y un escenario de usuario.",
+   "faa": "Una arquitectura de backend con porciones verticales por dominio de negocio y acciones en lugar de clases de servicio.",
+   "ancaria": "Un cargador de mods para Sacred Gold (2004), con hooks solo en memoria y un puente en Rust hacia la JVM.",
+   "bytekodex": "Un motor en Rust que dibuja bytecode de la JVM, detrás de un bot que compila código en un sandbox.",
+   "worldapi": "Un servidor de Minecraft sobre HTTP, con 129 operaciones REST, OpenAPI y un flujo de eventos por WebSocket.",
+   "exporter": "Un exportador de Prometheus que convierte un servidor de Minecraft en métricas.",
+   "grafana": "Un dashboard de Grafana para esas métricas, publicado en grafana.com."
+  }
+ },
+ "colors": {
+  "TypeScript": "#3178c6",
+  "JavaScript": "#f1e05a",
+  "Kotlin": "#a97bff",
+  "Java": "#b07219",
+  "Go": "#00add8",
+  "Rust": "#dea584",
+  "C++": "#f34b7d",
+  "C": "#555555",
+  "Python": "#3572a5",
+  "Swift": "#f05138",
+  "PLpgSQL": "#336790",
+  "Other": "#8b8b85"
+ },
+ "noise": [
+  "Batchfile",
+  "CMake",
+  "CSS",
+  "Dockerfile",
+  "Groovy",
+  "HTML",
+  "Makefile",
+  "PowerShell",
+  "Shell"
+ ]
+}
