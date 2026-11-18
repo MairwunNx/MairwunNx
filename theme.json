@@ -1,0 +1,45 @@
+{
+  "schemes": {
+    "dark": {
+      "background": "#161b22",
+      "border": "#30363d",
+      "name": "#9fd65b",
+      "description": "#9198a1",
+      "tag": "#c4cad1",
+      "tag_background": "#9fd65b",
+      "tag_background_opacity": "0.12",
+      "rule": "#30363d",
+      "legend": "#9198a1",
+      "percent": "#6e7681",
+      "arrow": "#6e7681"
+    },
+    "light": {
+      "background": "#f6f8fa",
+      "border": "#d0d7de",
+      "name": "#3f6f0e",
+      "description": "#59636e",
+      "tag": "#424a53",
+      "tag_background": "#3f6f0e",
+      "tag_background_opacity": "0.10",
+      "rule": "#d0d7de",
+      "legend": "#59636e",
+      "percent": "#818b98",
+      "arrow": "#818b98"
+    }
+  },
+  "languages": {
+    "TypeScript": "#3178c6",
+    "JavaScript": "#f1e05a",
+    "Kotlin": "#a97bff",
+    "Java": "#b07219",
+    "Go": "#00add8",
+    "Rust": "#dea584",
+    "C++": "#f34b7d",
+    "C": "#555555",
+    "Python": "#3572a5",
+    "Swift": "#f05138",
+    "PLpgSQL": "#336790",
+    "ANTLR": "#9dc3ff",
+    "Other": "#8b8b85"
+  }
+}

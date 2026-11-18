@@ -1,0 +1,201 @@
+{
+  "categories": [
+    {
+      "title": {"en": "AI agents", "ru": "ИИ-агенты", "es": "Agentes de IA"},
+      "projects": [
+        {
+          "key": "allay",
+          "name": "Allay",
+          "url": "https://allay.chat",
+          "repos": ["allay-ai/*"],
+          "tags": ["Mastra", "Bun", "OpenRouter", "OpenTelemetry", "Docker"],
+          "description": {
+            "en": "An AI helper for Minecraft servers, on my own agent harness with tools, sub-agents, memory, and OpenTelemetry traces.",
+            "ru": "ИИ-помощник для серверов Minecraft на собственном харнессе: тулы, субагенты, память и трейсинг в OpenTelemetry.",
+            "es": "Un asistente de IA para servidores de Minecraft sobre mi propio agent harness, con herramientas, subagentes, memoria y trazas de OpenTelemetry."
+          }
+        },
+        {
+          "key": "ctxray",
+          "name": "ctxray",
+          "url": "https://github.com/MairwunNx/ctxray",
+          "repos": ["MairwunNx/ctxray"],
+          "tags": ["Bun", "MCP", "CI", "Claude Code"],
+          "description": {
+            "en": "A debugger and test runner for agent harnesses: shows what Claude Code, Codex, and Cursor load into the model and tests it in CI.",
+            "ru": "Дебаггер и тесты для ИИ-харнессов: показывает, что Claude Code, Codex и Cursor загружают в модель, и проверяет это в CI.",
+            "es": "Un depurador y ejecutor de pruebas para agent harnesses: muestra lo que Claude Code, Codex y Cursor cargan en el modelo y lo prueba en CI."
+          }
+        },
+        {
+          "key": "mcp",
+          "name": "minecraft-mcp",
+          "url": "https://github.com/MairwunNx/minecraft-mcp",
+          "repos": ["MairwunNx/minecraft-mcp"],
+          "tags": ["MCP", "Node.js", "stdio", "HTTP"],
+          "description": {
+            "en": "An MCP server with 51 tools that lets an AI agent see and run a Minecraft server, with token-scoped permissions.",
+            "ru": "MCP-сервер на 51 тул, через который ИИ-агент видит Minecraft-сервер и управляет им, с правами доступа по токену.",
+            "es": "Un servidor MCP con 51 herramientas que permite a un agente de IA ver y manejar un servidor de Minecraft, con permisos por token."
+          }
+        },
+        {
+          "key": "xi",
+          "name": "Xi",
+          "url": "https://github.com/MairwunNx/xi",
+          "repos": ["MairwunNx/xi", "MairwunNx/xi-frontend"],
+          "tags": ["PostgreSQL", "Redis", "Docker"],
+          "description": {
+            "en": "A multimodal AI assistant for Telegram: text, voice, and images across five LLM providers, with memory across sessions.",
+            "ru": "Мультимодальный ИИ-ассистент для Telegram: текст, голос и изображения через пять LLM-провайдеров, память между сессиями.",
+            "es": "Un asistente de IA multimodal para Telegram: texto, voz e imágenes a través de cinco proveedores de LLM, con memoria entre sesiones."
+          }
+        }
+      ]
+    },
+    {
+      "title": {"en": "Architecture", "ru": "Архитектура", "es": "Arquitectura"},
+      "projects": [
+        {
+          "key": "capsa",
+          "name": "Capsa",
+          "url": "https://github.com/MairwunNx/Capsa",
+          "repos": ["MairwunNx/Capsa"],
+          "tags": ["Coroutines", "Compose Multiplatform", "State management"],
+          "languages": {"Kotlin": 100},
+          "description": {
+            "en": "The engine behind Capability Slice Architecture, my architecture for declarative UI, where each capability owns one slice of state and one user scenario.",
+            "ru": "Движок моей Capability Slice Architecture, архитектуры декларативного UI, в которой каждая возможность владеет своим срезом состояния и одним пользовательским сценарием.",
+            "es": "El motor de Capability Slice Architecture, mi arquitectura para UI declarativa, en la que cada capacidad gestiona una porción del estado y un escenario de usuario."
+          }
+        },
+        {
+          "key": "faa",
+          "name": "Feature-Action Architecture",
+          "url": "https://github.com/MairwunNx/Feature-Action-Architecture",
+          "repos": ["MairwunNx/Feature-Action-Architecture"],
+          "tags": ["Vertical slices", "Feature-Sliced Design", "DDD", "Functional"],
+          "languages": {"TypeScript": 100},
+          "description": {
+            "en": "A backend architecture with vertical slices by business domain and actions instead of service classes.",
+            "ru": "Архитектура бэкенда: вертикальные срезы по бизнес-доменам и действия (actions) вместо сервисных классов.",
+            "es": "Una arquitectura de backend con porciones verticales por dominio de negocio y acciones en lugar de clases de servicio."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Systems programming and reverse engineering",
+        "ru": "Системное программирование и реверс-инжиниринг",
+        "es": "Programación de sistemas e ingeniería inversa"
+      },
+      "intro": {
+        "en": "Built on JVM and Android Runtime (ART) internals: garbage collection, JIT compilation, and profiling with Java Flight Recorder.",
+        "ru": "Опираюсь на знание внутреннего устройства JVM и Android Runtime (ART): сборки мусора, JIT-компиляции, профилирования через Java Flight Recorder.",
+        "es": "Basada en los componentes internos de la JVM y de Android Runtime (ART): recolección de basura, compilación JIT y perfilado con Java Flight Recorder."
+      },
+      "projects": [
+        {
+          "key": "ancaria",
+          "name": "ancaria",
+          "url": "https://ancaria.dev",
+          "repos": ["ancaria-dev/*"],
+          "tags": ["Frida", "JVM", "Gradle", "IntelliJ"],
+          "description": {
+            "en": "A mod loader for Sacred Gold (2004), with hooks only in memory and a Rust bridge to the JVM.",
+            "ru": "Модлоадер для Sacred Gold (2004): хуки только в памяти и мост на Rust до JVM.",
+            "es": "Un cargador de mods para Sacred Gold (2004), con hooks solo en memoria y un puente en Rust hacia la JVM."
+          }
+        },
+        {
+          "key": "bytekodex",
+          "name": "Bytekodex",
+          "url": "https://github.com/bytekodex",
+          "repos": ["bytekodex/*"],
+          "tags": ["C ABI", "Sandbox", "Telegram"],
+          "description": {
+            "en": "A Rust engine that renders JVM bytecode as images, behind a bot that compiles code in a sandbox.",
+            "ru": "Движок на Rust, который рисует байткод JVM, и бот, который компилирует код в песочнице.",
+            "es": "Un motor en Rust que dibuja bytecode de la JVM, detrás de un bot que compila código en un sandbox."
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Backend and observability",
+        "ru": "Бэкенд и наблюдаемость",
+        "es": "Backend y observabilidad"
+      },
+      "projects": [
+        {
+          "key": "worldapi",
+          "name": "WorldAPI",
+          "url": "https://github.com/MairwunNx/minecraft-worldapi",
+          "repos": ["MairwunNx/minecraft-worldapi"],
+          "tags": ["Ktor", "OpenAPI", "WebSocket"],
+          "description": {
+            "en": "A Minecraft server on HTTP, with 129 REST operations, OpenAPI, and a WebSocket event feed.",
+            "ru": "Minecraft-сервер через HTTP: 129 REST-операций, OpenAPI и WebSocket-поток событий.",
+            "es": "Un servidor de Minecraft sobre HTTP, con 129 operaciones REST, OpenAPI y un flujo de eventos por WebSocket."
+          }
+        },
+        {
+          "key": "exporter",
+          "name": "minecraft-exporter",
+          "url": "https://github.com/MairwunNx/minecraft-exporter",
+          "repos": ["MairwunNx/minecraft-exporter"],
+          "tags": ["Prometheus"],
+          "description": {
+            "en": "A Prometheus exporter that turns a Minecraft server into metrics.",
+            "ru": "Экспортер Prometheus, который превращает Minecraft-сервер в метрики.",
+            "es": "Un exportador de Prometheus que convierte un servidor de Minecraft en métricas."
+          }
+        },
+        {
+          "key": "grafana",
+          "name": "minecraft-grafana",
+          "url": "https://github.com/MairwunNx/minecraft-grafana",
+          "repos": ["MairwunNx/minecraft-grafana"],
+          "tags": ["Grafana", "Prometheus"],
+          "description": {
+            "en": "A Grafana dashboard for those metrics, published on grafana.com.",
+            "ru": "Дашборд Grafana для этих метрик, опубликован на grafana.com.",
+            "es": "Un dashboard de Grafana para esas métricas, publicado en grafana.com."
+          }
+        }
+      ]
+    }
+  ],
+  "icons": [
+    {"name": "Kotlin", "devicon": "kotlin"},
+    {"name": "Java", "devicon": "java"},
+    {"name": "TypeScript", "devicon": "typescript"},
+    {"name": "Go", "devicon": "go", "variant": "original-wordmark"},
+    {"name": "Android", "devicon": "android"},
+    {"name": "Jetpack Compose", "devicon": "jetpackcompose"},
+    {"name": "Bun", "devicon": "bun"},
+    {"name": "Gradle", "devicon": "gradle"},
+    {"name": "Docker", "devicon": "docker"},
+    {"name": "PostgreSQL", "devicon": "postgresql"},
+    {"name": "Redis", "devicon": "redis"},
+    {"name": "Prometheus", "devicon": "prometheus"},
+    {"name": "Grafana", "devicon": "grafana"},
+    {"name": "Cloudflare", "devicon": "cloudflare"}
+  ],
+  "noise": [
+    "Batchfile",
+    "CMake",
+    "CSS",
+    "Dockerfile",
+    "Groovy",
+    "HTML",
+    "Less",
+    "Makefile",
+    "PowerShell",
+    "SCSS",
+    "Sass",
+    "Shell"
+  ]
+}

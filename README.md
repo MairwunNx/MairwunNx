@@ -1,3 +1,5 @@
+<!-- README.md is generated. Edit TEMPLATE.md and sources.json, then run scripts/readme.py. -->
+
 # Pavel Erokhin
 
 Software engineer and architect in Madrid, focused on AI agents and the tooling around them: agent harnesses, MCP servers, and LLM evaluation.
