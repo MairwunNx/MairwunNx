@@ -62,7 +62,6 @@
           "url": "https://github.com/MairwunNx/Capsa",
           "repos": ["MairwunNx/Capsa"],
           "tags": ["Coroutines", "Compose Multiplatform", "State management"],
-          "languages": {"Kotlin": 100},
           "description": {
             "en": "The engine behind Capability Slice Architecture, my architecture for declarative UI, where each capability owns one slice of state and one user scenario.",
             "ru": "Движок моей Capability Slice Architecture, архитектуры декларативного UI, в которой каждая возможность владеет своим срезом состояния и одним пользовательским сценарием.",
