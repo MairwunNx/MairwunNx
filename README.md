@@ -2,7 +2,7 @@
 
 # Pavel Erokhin
 
-Senior software engineer and architect in Madrid, specializing in AI agents, Android, and backend development. In AI, I work on the tooling around agents: harnesses, MCP servers, and LLM evaluation. I care about agents that hold up in production the way big-tech systems do: OpenTelemetry tracing, evals, context tests in CI, and tightly scoped tool permissions.
+Senior software engineer and architect in Madrid, specializing in AI agents, Android, and backend development. In AI, I work on agent reliability: OpenTelemetry tracing, LLM evals, tests for context and agent harnesses, guardrails, and running all of these processes in CI.
 
 In engineering since 2017. I’ve worked on high-load mobile and backend systems at Wildberries (100M+ MAU), Guava Pay, Alfa-Bank, and MTS Bank, designing and shipping features from architecture to release.
 
@@ -78,7 +78,7 @@ Some projects here are finished, some are in active development, and others are 
 
 # Павел Ерохин
 
-Старший инженер-программист и архитектор из Мадрида. Специализируюсь на ИИ-агентах, Android и бэкенд-разработке. В ИИ работаю с инструментами вокруг агентов: ИИ-харнессами, MCP-серверами и оценкой качества LLM. Меня интересуют агенты, которым можно доверять в продакшене так же, как системам бигтеха: с трейсами в OpenTelemetry, evals, тестами контекста в CI и ограниченными правами для тулов.
+Старший инженер-программист и архитектор из Мадрида. Специализируюсь на ИИ-агентах, Android и бэкенд-разработке. В ИИ-направлении работаю над надёжностью агентов: трейсы в OpenTelemetry, оценка качества LLM (evals), тесты контекста и ИИ-харнессов, гардрейлы и встраивание всех этих процессов в CI.
 
 В разработке с 2017 года. Работал над высоконагруженными мобильными и серверными системами в Wildberries (100M+ MAU), Guava Pay, Альфа-Банке и МТС Банке: проектировал и выпускал фичи от архитектуры до релиза.
 
@@ -130,7 +130,7 @@ Some projects here are finished, some are in active development, and others are 
 
 # Pavel Erokhin
 
-Ingeniero de software sénior y arquitecto en Madrid, especializado en agentes de IA, Android y desarrollo backend. En IA trabajo en las herramientas alrededor de los agentes: agent harnesses, servidores MCP y evaluación de LLM. Me interesan los agentes que aguantan en producción como los sistemas de las big tech: trazas en OpenTelemetry, evals, pruebas del contexto en CI y permisos acotados para cada herramienta.
+Ingeniero de software sénior y arquitecto en Madrid, especializado en agentes de IA, Android y desarrollo backend. En IA trabajo en la fiabilidad de los agentes: trazas en OpenTelemetry, evaluación de LLM (evals), pruebas del contexto y de los agent harnesses, guardrails y la integración de todos estos procesos en CI.
 
 En la ingeniería desde 2017. He trabajado en sistemas móviles y backend de alta carga en Wildberries (más de 100M de MAU), Guava Pay, Alfa-Bank y MTS Bank, diseñando y lanzando funciones desde la arquitectura hasta la versión final.
 
