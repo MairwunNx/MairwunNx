@@ -46,7 +46,7 @@
    ]
   },
   "mcp": {
-   "stars": 0,
+   "stars": 1,
    "languages": [
     [
      "TypeScript",
@@ -90,22 +90,22 @@
    "languages": [
     [
      "Kotlin",
-     76.7,
+     78.8,
      "#a97bff"
     ],
     [
      "Python",
-     19.1,
+     17.7,
      "#3572a5"
     ],
     [
      "TypeScript",
-     2.5,
+     2.1,
      "#3178c6"
     ],
     [
      "Swift",
-     1.7,
+     1.4,
      "#f05138"
     ]
    ]
@@ -155,22 +155,22 @@
    "languages": [
     [
      "Go",
-     52.4,
+     53.5,
      "#00add8"
     ],
     [
      "Rust",
-     39.4,
+     38.6,
      "#dea584"
     ],
     [
      "ANTLR",
-     5.9,
+     5.8,
      "#9dc3ff"
     ],
     [
      "C",
-     2.2,
+     2.1,
      "#555555"
     ]
    ]
@@ -201,7 +201,7 @@
    ]
   },
   "exporter": {
-   "stars": 0,
+   "stars": 1,
    "languages": [
     [
      "Go",
@@ -211,7 +211,7 @@
    ]
   },
   "grafana": {
-   "stars": 1,
+   "stars": 2,
    "languages": [
     [
      "Python",

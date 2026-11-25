@@ -12,13 +12,13 @@
 <text x="148.0" y="99.5" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#c4cad1">Telegram</text>
 <line x1="18" y1="118" x2="392" y2="118" stroke="#30363d"/>
 <clipPath id="bar-bytekodex"><rect x="18" y="130" width="374" height="6" rx="3"/></clipPath><g clip-path="url(#bar-bytekodex)">
-<rect x="18.0" y="130" width="192.8" height="6" fill="#00add8"/>
-<rect x="212.8" y="130" width="145.0" height="6" fill="#dea584"/>
-<rect x="359.8" y="130" width="21.7" height="6" fill="#9dc3ff"/>
-<rect x="383.5" y="130" width="8.1" height="6" fill="#555555"/>
+<rect x="18.0" y="130" width="196.9" height="6" fill="#00add8"/>
+<rect x="216.9" y="130" width="142.0" height="6" fill="#dea584"/>
+<rect x="360.9" y="130" width="21.3" height="6" fill="#9dc3ff"/>
+<rect x="384.3" y="130" width="7.7" height="6" fill="#555555"/>
 </g>
 <circle cx="22" cy="148.5" r="4" fill="#00add8"/>
-<text x="30" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#9198a1">Go <tspan fill="#6e7681">52%</tspan></text>
+<text x="30" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#9198a1">Go <tspan fill="#6e7681">54%</tspan></text>
 <circle cx="88.98125" cy="148.5" r="4" fill="#dea584"/>
 <text x="96.98125" y="152" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" fill="#9198a1">Rust <tspan fill="#6e7681">39%</tspan></text>
 <circle cx="168.95625" cy="148.5" r="4" fill="#9dc3ff"/>
