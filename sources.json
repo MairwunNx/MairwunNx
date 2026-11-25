@@ -34,9 +34,9 @@
           "repos": ["MairwunNx/minecraft-mcp"],
           "tags": ["MCP", "Node.js", "stdio", "HTTP"],
           "description": {
-            "en": "An MCP server with 51 tools that lets an AI agent see and run a Minecraft server, with token-scoped permissions.",
-            "ru": "MCP-сервер на 51 тул, через который ИИ-агент видит Minecraft-сервер и управляет им, с правами доступа по токену.",
-            "es": "Un servidor MCP con 51 herramientas que permite a un agente de IA ver y manejar un servidor de Minecraft, con permisos por token."
+            "en": "An MCP server that lets an AI agent see and run a Minecraft server, with token-scoped permissions.",
+            "ru": "MCP-сервер, через который ИИ-агент видит Minecraft-сервер и управляет им, с правами доступа по токену.",
+            "es": "Un servidor MCP que permite a un agente de IA ver y manejar un servidor de Minecraft, con permisos por token."
           }
         },
         {

@@ -2,7 +2,7 @@
 
 # Pavel Erokhin
 
-Software engineer and architect in Madrid, focused on AI agents and the tooling around them: agent harnesses, MCP servers, and LLM evaluation.
+Senior software engineer and architect in Madrid, focused on AI agents and the tooling around them: agent harnesses, MCP servers, and LLM evaluation. I build agents with the discipline of fintech: I trace every run, test the context in CI, and scope what each tool may do.
 
 In engineering since 2017. I’ve worked on high-load mobile and backend systems at Wildberries (100M+ MAU), Guava Pay, Alfa-Bank, and MTS Bank, designing and shipping features from architecture to release.
 
@@ -14,7 +14,7 @@ In engineering since 2017. I’ve worked on high-load mobile and backend systems
 </p>
 
 <p align="center">
-<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-en-dark.svg"><img src="cards/mcp-en-light.svg" width="49%" alt="minecraft-mcp: An MCP server with 51 tools that lets an AI agent see and run a Minecraft server, with token-scoped permissions."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-en-dark.svg"><img src="cards/mcp-en-light.svg" width="49%" alt="minecraft-mcp: An MCP server that lets an AI agent see and run a Minecraft server, with token-scoped permissions."></picture></a>
 <a href="https://github.com/MairwunNx/xi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/xi-en-dark.svg"><img src="cards/xi-en-light.svg" width="49%" alt="Xi: A multimodal AI assistant for Telegram: text, voice, and images across five LLM providers, with memory across sessions."></picture></a>
 </p>
 
@@ -78,7 +78,7 @@ Some projects here are finished, some are in active development, and others are 
 
 # Павел Ерохин
 
-Инженер-программист и архитектор из Мадрида. Специализируюсь на ИИ-агентах и инструментах вокруг них: ИИ-харнессах, MCP-серверах и оценке качества LLM.
+Старший инженер-программист и архитектор из Мадрида. Специализируюсь на ИИ-агентах и инструментах вокруг них: ИИ-харнессах, MCP-серверах и оценке качества LLM. Подхожу к агентам с дисциплиной финтеха: собираю трейсы каждого запуска, проверяю контекст в CI и ограничиваю, что может каждый тул.
 
 В разработке с 2017 года. Работал над высоконагруженными мобильными и серверными системами в Wildberries (100M+ MAU), Guava Pay, Альфа-Банке и МТС Банке: проектировал и выпускал фичи от архитектуры до релиза.
 
@@ -90,7 +90,7 @@ Some projects here are finished, some are in active development, and others are 
 </p>
 
 <p align="center">
-<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-ru-dark.svg"><img src="cards/mcp-ru-light.svg" width="49%" alt="minecraft-mcp: MCP-сервер на 51 тул, через который ИИ-агент видит Minecraft-сервер и управляет им, с правами доступа по токену."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-ru-dark.svg"><img src="cards/mcp-ru-light.svg" width="49%" alt="minecraft-mcp: MCP-сервер, через который ИИ-агент видит Minecraft-сервер и управляет им, с правами доступа по токену."></picture></a>
 <a href="https://github.com/MairwunNx/xi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/xi-ru-dark.svg"><img src="cards/xi-ru-light.svg" width="49%" alt="Xi: Мультимодальный ИИ-ассистент для Telegram: текст, голос и изображения через пять LLM-провайдеров, память между сессиями."></picture></a>
 </p>
 
@@ -130,7 +130,7 @@ Some projects here are finished, some are in active development, and others are 
 
 # Pavel Erokhin
 
-Ingeniero de software y arquitecto en Madrid, centrado en agentes de IA y las herramientas a su alrededor: agent harnesses, servidores MCP y evaluación de LLM.
+Ingeniero de software sénior y arquitecto en Madrid, centrado en agentes de IA y las herramientas a su alrededor: agent harnesses, servidores MCP y evaluación de LLM. Construyo agentes con la disciplina de fintech: trazo cada ejecución, pruebo el contexto en CI y limito lo que puede hacer cada herramienta.
 
 En la ingeniería desde 2017. He trabajado en sistemas móviles y backend de alta carga en Wildberries (más de 100M de MAU), Guava Pay, Alfa-Bank y MTS Bank, diseñando y lanzando funciones desde la arquitectura hasta la versión final.
 
@@ -142,7 +142,7 @@ En la ingeniería desde 2017. He trabajado en sistemas móviles y backend de alt
 </p>
 
 <p align="center">
-<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-es-dark.svg"><img src="cards/mcp-es-light.svg" width="49%" alt="minecraft-mcp: Un servidor MCP con 51 herramientas que permite a un agente de IA ver y manejar un servidor de Minecraft, con permisos por token."></picture></a>
+<a href="https://github.com/MairwunNx/minecraft-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mcp-es-dark.svg"><img src="cards/mcp-es-light.svg" width="49%" alt="minecraft-mcp: Un servidor MCP que permite a un agente de IA ver y manejar un servidor de Minecraft, con permisos por token."></picture></a>
 <a href="https://github.com/MairwunNx/xi"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/xi-es-dark.svg"><img src="cards/xi-es-light.svg" width="49%" alt="Xi: Un asistente de IA multimodal para Telegram: texto, voz e imágenes a través de cinco proveedores de LLM, con memoria entre sesiones."></picture></a>
 </p>
 
