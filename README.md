@@ -2,7 +2,7 @@
 
 # Pavel Erokhin
 
-Senior software engineer and architect in Madrid, focused on AI agents and the tooling around them: agent harnesses, MCP servers, and LLM evaluation. I build agents with the discipline of fintech: I trace every run, test the context in CI, and scope what each tool may do.
+Senior software engineer and architect in Madrid, specializing in AI agents, Android, and backend development. In AI, I work on the tooling around agents: harnesses, MCP servers, and LLM evaluation. I bring big-tech discipline to it: I trace every run, test the context in CI, and scope what each tool may do.
 
 In engineering since 2017. I’ve worked on high-load mobile and backend systems at Wildberries (100M+ MAU), Guava Pay, Alfa-Bank, and MTS Bank, designing and shipping features from architecture to release.
 
@@ -78,7 +78,7 @@ Some projects here are finished, some are in active development, and others are 
 
 # Павел Ерохин
 
-Старший инженер-программист и архитектор из Мадрида. Специализируюсь на ИИ-агентах и инструментах вокруг них: ИИ-харнессах, MCP-серверах и оценке качества LLM. Подхожу к агентам с дисциплиной финтеха: собираю трейсы каждого запуска, проверяю контекст в CI и ограничиваю, что может каждый тул.
+Старший инженер-программист и архитектор из Мадрида. Специализируюсь на ИИ-агентах, Android и бэкенд-разработке. В ИИ работаю с инструментами вокруг агентов: ИИ-харнессами, MCP-серверами и оценкой качества LLM. К ним подхожу с дисциплиной бигтехов: собираю трейсы каждого запуска, проверяю контекст в CI и ограничиваю, что может каждый тул.
 
 В разработке с 2017 года. Работал над высоконагруженными мобильными и серверными системами в Wildberries (100M+ MAU), Guava Pay, Альфа-Банке и МТС Банке: проектировал и выпускал фичи от архитектуры до релиза.
 
@@ -130,7 +130,7 @@ Some projects here are finished, some are in active development, and others are 
 
 # Pavel Erokhin
 
-Ingeniero de software sénior y arquitecto en Madrid, centrado en agentes de IA y las herramientas a su alrededor: agent harnesses, servidores MCP y evaluación de LLM. Construyo agentes con la disciplina de fintech: trazo cada ejecución, pruebo el contexto en CI y limito lo que puede hacer cada herramienta.
+Ingeniero de software sénior y arquitecto en Madrid, especializado en agentes de IA, Android y desarrollo backend. En IA trabajo en las herramientas alrededor de los agentes: agent harnesses, servidores MCP y evaluación de LLM. Les aplico la disciplina de las big tech: trazo cada ejecución, pruebo el contexto en CI y limito lo que puede hacer cada herramienta.
 
 En la ingeniería desde 2017. He trabajado en sistemas móviles y backend de alta carga en Wildberries (más de 100M de MAU), Guava Pay, Alfa-Bank y MTS Bank, diseñando y lanzando funciones desde la arquitectura hasta la versión final.
 
